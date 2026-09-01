@@ -1,0 +1,136 @@
+2024-09-10T13:22:47,528 Using pip 22.3.1 from C:\Users\Minh\AppData\Local\Programs\Python\Python310\lib\site-packages\pip (python 3.10)
+2024-09-10T13:22:47,534 Non-user install because site-packages writeable
+2024-09-10T13:22:47,550 Created temporary directory: C:\Users\Minh\AppData\Local\Temp\pip-build-tracker-efph5nmj
+2024-09-10T13:22:47,550 Initialized build tracking at C:\Users\Minh\AppData\Local\Temp\pip-build-tracker-efph5nmj
+2024-09-10T13:22:47,550 Created build tracker: C:\Users\Minh\AppData\Local\Temp\pip-build-tracker-efph5nmj
+2024-09-10T13:22:47,550 Entered build tracker: C:\Users\Minh\AppData\Local\Temp\pip-build-tracker-efph5nmj
+2024-09-10T13:22:47,551 Created temporary directory: C:\Users\Minh\AppData\Local\Temp\pip-install-wewpp049
+2024-09-10T13:22:47,552 Created temporary directory: C:\Users\Minh\AppData\Local\Temp\pip-ephem-wheel-cache-xvg4swcf
+2024-09-10T13:22:47,572 1 location(s) to search for versions of lap:
+2024-09-10T13:22:47,572 * https://pypi.org/simple/lap/
+2024-09-10T13:22:47,573 Fetching project page and analyzing links: https://pypi.org/simple/lap/
+2024-09-10T13:22:47,573 Getting page https://pypi.org/simple/lap/
+2024-09-10T13:22:47,573 Found index url https://pypi.org/simple
+2024-09-10T13:22:47,800 Fetched page https://pypi.org/simple/lap/ as application/vnd.pypi.simple.v1+json
+2024-09-10T13:22:47,801   Found link https://files.pythonhosted.org/packages/0b/17/d179f806407e1ccbce2c4ad5a265851c1c8d78f5b6ec5e1d1d6101135086/lap-0.3.0.tar.gz (from https://pypi.org/simple/lap/), version: 0.3.0
+2024-09-10T13:22:47,801   Found link https://files.pythonhosted.org/packages/bf/64/d9fb6a75b15e783952b2fec6970f033462e67db32dc43dfbb404c14e91c2/lap-0.4.0.tar.gz (from https://pypi.org/simple/lap/), version: 0.4.0
+2024-09-10T13:22:47,801 Skipping link: not a file: https://pypi.org/simple/lap/
+2024-09-10T13:22:47,802 Given no hashes to check 1 links for project 'lap': discarding no candidates
+2024-09-10T13:22:47,802 Collecting lap==0.4.0
+2024-09-10T13:22:47,804   Created temporary directory: C:\Users\Minh\AppData\Local\Temp\pip-unpack-u98th4tf
+2024-09-10T13:22:47,807   Using cached lap-0.4.0.tar.gz (1.5 MB)
+2024-09-10T13:22:47,841   Added lap==0.4.0 from https://files.pythonhosted.org/packages/bf/64/d9fb6a75b15e783952b2fec6970f033462e67db32dc43dfbb404c14e91c2/lap-0.4.0.tar.gz to build tracker 'C:\\Users\\Minh\\AppData\\Local\\Temp\\pip-build-tracker-efph5nmj'
+2024-09-10T13:22:47,843   Running setup.py (path:C:\Users\Minh\AppData\Local\Temp\pip-install-wewpp049\lap_72bebb5a65bd4eecb0607d2f922f2786\setup.py) egg_info for package lap
+2024-09-10T13:22:47,843   Created temporary directory: C:\Users\Minh\AppData\Local\Temp\pip-pip-egg-info-7fannjno
+2024-09-10T13:22:47,843   Running command python setup.py egg_info
+2024-09-10T13:22:48,142   Partial import of lap during the build process.
+2024-09-10T13:22:48,160   running egg_info
+2024-09-10T13:22:48,160   creating C:\Users\Minh\AppData\Local\Temp\pip-pip-egg-info-7fannjno\lap.egg-info
+2024-09-10T13:22:48,162   writing C:\Users\Minh\AppData\Local\Temp\pip-pip-egg-info-7fannjno\lap.egg-info\PKG-INFO
+2024-09-10T13:22:48,162   writing dependency_links to C:\Users\Minh\AppData\Local\Temp\pip-pip-egg-info-7fannjno\lap.egg-info\dependency_links.txt
+2024-09-10T13:22:48,164   writing requirements to C:\Users\Minh\AppData\Local\Temp\pip-pip-egg-info-7fannjno\lap.egg-info\requires.txt
+2024-09-10T13:22:48,164   writing top-level names to C:\Users\Minh\AppData\Local\Temp\pip-pip-egg-info-7fannjno\lap.egg-info\top_level.txt
+2024-09-10T13:22:48,164   writing manifest file 'C:\Users\Minh\AppData\Local\Temp\pip-pip-egg-info-7fannjno\lap.egg-info\SOURCES.txt'
+2024-09-10T13:22:48,170   reading manifest file 'C:\Users\Minh\AppData\Local\Temp\pip-pip-egg-info-7fannjno\lap.egg-info\SOURCES.txt'
+2024-09-10T13:22:48,170   reading manifest template 'MANIFEST.in'
+2024-09-10T13:22:48,171   warning: no files found matching 'setup.cfg'
+2024-09-10T13:22:48,173   warning: no files found matching '*.pxd' under directory 'lap'
+2024-09-10T13:22:48,174   warning: no files found matching '*.pxi' under directory 'lap'
+2024-09-10T13:22:48,176   warning: no files found matching '*.c' under directory 'lap'
+2024-09-10T13:22:48,178   warning: no files found matching '*.md' under directory 'lap'
+2024-09-10T13:22:48,178   warning: no previously-included files matching '*~' found anywhere in distribution
+2024-09-10T13:22:48,178   warning: no previously-included files matching '*.pyc' found anywhere in distribution
+2024-09-10T13:22:48,179   adding license file 'LICENSE'
+2024-09-10T13:22:48,179   writing manifest file 'C:\Users\Minh\AppData\Local\Temp\pip-pip-egg-info-7fannjno\lap.egg-info\SOURCES.txt'
+2024-09-10T13:22:48,210   Source in c:\users\minh\appdata\local\temp\pip-install-wewpp049\lap_72bebb5a65bd4eecb0607d2f922f2786 has version 0.4.0, which satisfies requirement lap==0.4.0 from https://files.pythonhosted.org/packages/bf/64/d9fb6a75b15e783952b2fec6970f033462e67db32dc43dfbb404c14e91c2/lap-0.4.0.tar.gz
+2024-09-10T13:22:48,210   Removed lap==0.4.0 from https://files.pythonhosted.org/packages/bf/64/d9fb6a75b15e783952b2fec6970f033462e67db32dc43dfbb404c14e91c2/lap-0.4.0.tar.gz from build tracker 'C:\\Users\\Minh\\AppData\\Local\\Temp\\pip-build-tracker-efph5nmj'
+2024-09-10T13:22:48,212 Created temporary directory: C:\Users\Minh\AppData\Local\Temp\pip-unpack-uli3s5fs
+2024-09-10T13:22:48,235 Installing collected packages: lap
+2024-09-10T13:22:48,236   DEPRECATION: lap is being installed using the legacy 'setup.py install' method, because it does not have a 'pyproject.toml' and the 'wheel' package is not installed. pip 23.1 will enforce this behaviour change. A possible replacement is to enable the '--use-pep517' option. Discussion can be found at https://github.com/pypa/pip/issues/8559
+2024-09-10T13:22:48,238   Created temporary directory: C:\Users\Minh\AppData\Local\Temp\pip-record-r6rgseea
+2024-09-10T13:22:48,238   Running command Running setup.py install for lap
+2024-09-10T13:22:48,528   Partial import of lap during the build process.
+2024-09-10T13:22:48,530   Traceback (most recent call last):
+2024-09-10T13:22:48,530     File "C:\Users\Minh\AppData\Local\Temp\pip-install-wewpp049\lap_72bebb5a65bd4eecb0607d2f922f2786\setup.py", line 127, in get_numpy_status
+2024-09-10T13:22:48,530       import numpy
+2024-09-10T13:22:48,530   ModuleNotFoundError: No module named 'numpy'
+2024-09-10T13:22:48,530   Traceback (most recent call last):
+2024-09-10T13:22:48,530     File "<string>", line 2, in <module>
+2024-09-10T13:22:48,530     File "<pip-setuptools-caller>", line 34, in <module>
+2024-09-10T13:22:48,530     File "C:\Users\Minh\AppData\Local\Temp\pip-install-wewpp049\lap_72bebb5a65bd4eecb0607d2f922f2786\setup.py", line 236, in <module>
+2024-09-10T13:22:48,531       setup_package()
+2024-09-10T13:22:48,531     File "C:\Users\Minh\AppData\Local\Temp\pip-install-wewpp049\lap_72bebb5a65bd4eecb0607d2f922f2786\setup.py", line 220, in setup_package
+2024-09-10T13:22:48,531       raise ImportError('lap requires numpy, '
+2024-09-10T13:22:48,531   ImportError: lap requires numpy, please "pip install numpy".
+2024-09-10T13:22:48,557   ERROR: [present-rich] Running setup.py install for lap exited with 1
+2024-09-10T13:22:48,562   [bold magenta]full command[/]: [blue]'C:\Users\Minh\AppData\Local\Programs\Python\Python310\python.exe' -u -c '
+2024-09-10T13:22:48,562   exec(compile('"'"''"'"''"'"'
+2024-09-10T13:22:48,562   # This is <pip-setuptools-caller> -- a caller that pip uses to run setup.py
+2024-09-10T13:22:48,562   #
+2024-09-10T13:22:48,562   # - It imports setuptools before invoking setup.py, to enable projects that directly
+2024-09-10T13:22:48,562   #   import from `distutils.core` to work with newer packaging standards.
+2024-09-10T13:22:48,562   # - It provides a clear error message when setuptools is not installed.
+2024-09-10T13:22:48,562   # - It sets `sys.argv[0]` to the underlying `setup.py`, when invoking `setup.py` so
+2024-09-10T13:22:48,562   #   setuptools doesn'"'"'t think the script is `-c`. This avoids the following warning:
+2024-09-10T13:22:48,562   #     manifest_maker: standard file '"'"'-c'"'"' not found".
+2024-09-10T13:22:48,562   # - It generates a shim setup.py, for handling setup.cfg-only projects.
+2024-09-10T13:22:48,562   import os, sys, tokenize
+2024-09-10T13:22:48,562   
+2024-09-10T13:22:48,562   try:
+2024-09-10T13:22:48,562       import setuptools
+2024-09-10T13:22:48,562   except ImportError as error:
+2024-09-10T13:22:48,562       print(
+2024-09-10T13:22:48,562           "ERROR: Can not execute `setup.py` since setuptools is not available in "
+2024-09-10T13:22:48,562           "the build environment.",
+2024-09-10T13:22:48,562           file=sys.stderr,
+2024-09-10T13:22:48,562       )
+2024-09-10T13:22:48,562       sys.exit(1)
+2024-09-10T13:22:48,562   
+2024-09-10T13:22:48,562   __file__ = %r
+2024-09-10T13:22:48,562   sys.argv[0] = __file__
+2024-09-10T13:22:48,562   
+2024-09-10T13:22:48,562   if os.path.exists(__file__):
+2024-09-10T13:22:48,562       filename = __file__
+2024-09-10T13:22:48,562       with tokenize.open(__file__) as f:
+2024-09-10T13:22:48,562           setup_py_code = f.read()
+2024-09-10T13:22:48,562   else:
+2024-09-10T13:22:48,562       filename = "<auto-generated setuptools caller>"
+2024-09-10T13:22:48,562       setup_py_code = "from setuptools import setup; setup()"
+2024-09-10T13:22:48,562   
+2024-09-10T13:22:48,562   exec(compile(setup_py_code, filename, "exec"))
+2024-09-10T13:22:48,562   '"'"''"'"''"'"' % ('"'"'C:\\Users\\Minh\\AppData\\Local\\Temp\\pip-install-wewpp049\\lap_72bebb5a65bd4eecb0607d2f922f2786\\setup.py'"'"',), "<pip-setuptools-caller>", "exec"))' install --record 'C:\Users\Minh\AppData\Local\Temp\pip-record-r6rgseea\install-record.txt' --single-version-externally-managed --compile --install-headers 'C:\Users\Minh\AppData\Local\Programs\Python\Python310\Include\lap'[/]
+2024-09-10T13:22:48,562   [bold magenta]cwd[/]: C:\Users\Minh\AppData\Local\Temp\pip-install-wewpp049\lap_72bebb5a65bd4eecb0607d2f922f2786\
+2024-09-10T13:22:48,563 ERROR: [present-rich] <LegacyInstallFailure: legacy-install-failure>
+2024-09-10T13:22:48,565 Exception information:
+2024-09-10T13:22:48,565 Traceback (most recent call last):
+2024-09-10T13:22:48,565   File "C:\Users\Minh\AppData\Local\Programs\Python\Python310\lib\site-packages\pip\_internal\operations\install\legacy.py", line 97, in install
+2024-09-10T13:22:48,565     runner(
+2024-09-10T13:22:48,565   File "C:\Users\Minh\AppData\Local\Programs\Python\Python310\lib\site-packages\pip\_internal\utils\subprocess.py", line 252, in runner
+2024-09-10T13:22:48,565     call_subprocess(
+2024-09-10T13:22:48,565   File "C:\Users\Minh\AppData\Local\Programs\Python\Python310\lib\site-packages\pip\_internal\utils\subprocess.py", line 224, in call_subprocess
+2024-09-10T13:22:48,565     raise error
+2024-09-10T13:22:48,565 pip._internal.exceptions.InstallationSubprocessError: Running setup.py install for lap exited with 1
+2024-09-10T13:22:48,565 
+2024-09-10T13:22:48,565 The above exception was the direct cause of the following exception:
+2024-09-10T13:22:48,565 
+2024-09-10T13:22:48,565 Traceback (most recent call last):
+2024-09-10T13:22:48,565   File "C:\Users\Minh\AppData\Local\Programs\Python\Python310\lib\site-packages\pip\_internal\cli\base_command.py", line 160, in exc_logging_wrapper
+2024-09-10T13:22:48,565     status = run_func(*args)
+2024-09-10T13:22:48,565   File "C:\Users\Minh\AppData\Local\Programs\Python\Python310\lib\site-packages\pip\_internal\cli\req_command.py", line 247, in wrapper
+2024-09-10T13:22:48,565     return func(self, options, args)
+2024-09-10T13:22:48,565   File "C:\Users\Minh\AppData\Local\Programs\Python\Python310\lib\site-packages\pip\_internal\commands\install.py", line 494, in run
+2024-09-10T13:22:48,565     installed = install_given_reqs(
+2024-09-10T13:22:48,565   File "C:\Users\Minh\AppData\Local\Programs\Python\Python310\lib\site-packages\pip\_internal\req\__init__.py", line 73, in install_given_reqs
+2024-09-10T13:22:48,565     requirement.install(
+2024-09-10T13:22:48,565   File "C:\Users\Minh\AppData\Local\Programs\Python\Python310\lib\site-packages\pip\_internal\req\req_install.py", line 839, in install
+2024-09-10T13:22:48,565     raise exc
+2024-09-10T13:22:48,565   File "C:\Users\Minh\AppData\Local\Programs\Python\Python310\lib\site-packages\pip\_internal\req\req_install.py", line 821, in install
+2024-09-10T13:22:48,565     success = install_legacy(
+2024-09-10T13:22:48,565   File "C:\Users\Minh\AppData\Local\Programs\Python\Python310\lib\site-packages\pip\_internal\operations\install\legacy.py", line 109, in install
+2024-09-10T13:22:48,565     raise LegacyInstallFailure(package_details=req_name) from e
+2024-09-10T13:22:48,565 pip._internal.exceptions.LegacyInstallFailure: <LegacyInstallFailure: legacy-install-failure>
+2024-09-10T13:22:48,628 Remote version of pip: 24.2
+2024-09-10T13:22:48,628 Local version of pip:  22.3.1
+2024-09-10T13:22:48,628 Was pip installed by pip? True
+2024-09-10T13:22:48,628 WARNING: [present-rich] UpgradePrompt(old='22.3.1', new='24.2')
+2024-09-10T13:22:48,642 Removed build tracker: 'C:\\Users\\Minh\\AppData\\Local\\Temp\\pip-build-tracker-efph5nmj'
