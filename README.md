@@ -51,10 +51,6 @@ Ensure you have a recent version of Python (3.8+) and necessary libraries.
     cd Automated-Object-Tracking
     ```
 
-2.  **Install dependencies:**
-    *(Recommended: use a virtual environment)*
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ---
